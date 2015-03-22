@@ -7,5 +7,4 @@ app.config['SECRET_KEY'] = 'devkey'
 def index():
     return 'Hello World!'
 
-if __name__ == '__main__':
-    app.run()
+
